@@ -1,3 +1,6 @@
 This is my 2nd GIT file.
 
 Testing to add command in line 3 same as file in MAIN, and will solving the issue of merging conflict.
+
+This will test the Merging Conflic.
+
